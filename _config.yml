@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "e860027e21d868020ebf2df774270174.png"
+  avatar           : "images/myphoto"
   name             : "Chuqi Li"
   pronouns         : # example: "she/her"  
   bio              : "Pure Passer-by"
