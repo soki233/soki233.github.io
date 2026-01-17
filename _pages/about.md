@@ -10,7 +10,6 @@ redirect_from:
 It is a personal web of a phamacy analysis doctor. Although it is made for his homework at first, the author thinks it an interesting thing to write codes. Feelings of an omnipotent creator hugs him, which brings him much more happiness than his major work, namely endless and irreproducible experiments. Everyone should have a try to become a programmer in my opinion.
 
 ---
-permalink: /
 title: "It is a personal web of a phamacy analysis doctor"
 author_profile: true
 redirect_from: 
