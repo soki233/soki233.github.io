@@ -134,4 +134,3 @@ def evaluate_model(name, model, X_train, X_test, y_train, y_test):
 
 ## 结论  
 本项目通过系统化实验对比了三种分类模型的性能。结果表明，Random Forest在多特征分类任务中表现最佳，其平衡准确率达0.520，Macro-F1分数0.496，适合作为该数据集的最终模型。未来可进一步通过特征工程或超参数调优提升性能。
-```
