@@ -23,7 +23,7 @@ repository               : "soki233/soki233.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/myphoto.png"
+  avatar           : "myphoto.png"
   name             : "Chuqi Li(李楚琪)"
   pronouns         : # example: "she/her"  
   bio              : "Pure Passer-by"
