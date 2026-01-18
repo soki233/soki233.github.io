@@ -3,8 +3,8 @@ permalink: /
 title: "about this web"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /md/
+  - /aboutthisweb.html
 ---
 
 It is a personal web of a pharmacy analysis doctor. "Doctor" has lots of meanings in English, sometimes it means an academic degree, sometimes it means a career, and sometimes means a verb which refers to deceiving. Of course something in this page is not real in order to keep someone's privacy.
