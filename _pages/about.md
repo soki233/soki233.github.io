@@ -13,4 +13,4 @@ You can find my Chinese CV here: [CV of pure passer-by](assets/CV of LCQ.pdf), o
 
 Here is my [WechatCode](images/mywechat.jpg) for anyone needed. I'm always online.
 
-[coze作业](soki233.github.io/_portfolio/multi-model-classification.md)
+[coze作业](../_portfolio/multi-model-classification.md)
