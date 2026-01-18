@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "It is a personal web of a phamacy analysis doctor"
+title: "It is a personal web of a pharmacy analysis doctor"
 author_profile: true
 redirect_from: 
   - /about/
