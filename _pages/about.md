@@ -11,6 +11,6 @@ I am a first-year Ph.D. student in Phamacy Analysis at the [school of pharmaceut
 
 You can find my Chinese CV here: [CV of pure passer-by](assets/CV of LCQ.pdf), or tend to the CV page to find more about me.
 
-Here is my [Wechat](images/mywechat.jpg) for anyone needed.
+Here is my [WechatCode](images/mywechat.jpg) for anyone needed. I'm always online.
 
 
