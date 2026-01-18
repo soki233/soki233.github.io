@@ -113,20 +113,20 @@ def evaluate_model(name, model, X_train, X_test, y_train, y_test):
 ![x5箱线图](/images/portfolio/multi-model-classification/x5_boxplot.png)  
 
 ### 2. 模型性能对比  
-**混淆矩阵示例（Random Forest）**：  
-![Random Forest混淆矩阵](/images/portfolio/multi-model-classification/rf_cm.png)  
+**混淆矩阵示例（Logistic Regression）**：  
+![Random Forest混淆矩阵](/images/portfolio/multi-model-classification/logistic_cm.png)  
 *该模型对类别2的识别准确率最高，类别1存在一定混淆。*
 
-**ROC曲线示例（SVM）**：  
-![SVM ROC曲线](/images/portfolio/multi-model-classification/svm_roc.png)  
-*三类别的AUC均在0.9以上，模型整体区分能力较强。*
+**ROC曲线示例（Random Forest）**：  
+![SVM ROC曲线](/images/portfolio/multi-model-classification/rf_roc.png)  
+*三类别的AUC均在0.7以上，模型整体区分能力一般。*
 
 **关键指标汇总**：  
 | 模型                | Balanced Accuracy | Macro-F1 | ROC-AUC |  
 |---------------------|-------------------|----------|---------|  
-| Random Forest       | 0.892             | 0.886    | 0.961   |  
-| Logistic Regression | 0.857             | 0.843    | 0.935   |  
-| Linear SVM          | 0.875             | 0.862    | 0.948   |  
+| Random Forest       | 0.520             | 0.496    | 0.667   |  
+| Logistic Regression | 0.408             | 0.410    | 0.669   |  
+| Linear SVM          | 0.375             | 0.301    | 0.585   |  
 
 **模型对比**：  
 ![模型性能对比](/images/portfolio/multi-model-classification/model_comparison.png)  
@@ -134,5 +134,5 @@ def evaluate_model(name, model, X_train, X_test, y_train, y_test):
 
 
 ## 结论  
-本项目通过系统化实验对比了三种分类模型的性能。结果表明，Random Forest在多特征分类任务中表现最佳，其平衡准确率达0.892，Macro-F1分数0.886，适合作为该数据集的最终模型。未来可进一步通过特征工程或超参数调优提升性能。
+本项目通过系统化实验对比了三种分类模型的性能。结果表明，Random Forest在多特征分类任务中表现最佳，其平衡准确率达0.520，Macro-F1分数0.496，适合作为该数据集的最终模型。未来可进一步通过特征工程或超参数调优提升性能。
 ```
