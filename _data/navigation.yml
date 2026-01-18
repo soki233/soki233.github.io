@@ -16,7 +16,13 @@ main:
     
   - #title: "Talks"
     #url: /talks/    
-      
+    
+  - title: "Portfolio"
+    url: /portfolio/
+    
+  - #title: "Teaching"
+    #url: /teaching/   
+    
   - title: "About"
     url: /markdown/
     
@@ -24,9 +30,6 @@ main:
     #url: /teaching/    
 
     
-  - #title: "Portfolio"
-    #url: /portfolio/
-        
   - #title: "Blog Posts"
     #url: /year-archive/
         
