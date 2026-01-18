@@ -11,6 +11,6 @@ I am a first-year Ph.D. student in Phamacy Analysis at the [school of pharmaceut
 
 You can find my Chinese CV here: [CV of pure passer-by](assets/CV of LCQ.pdf).
 
-[Email](chuqili@pku.edu.cn) / [Github](https://github.com/soki233) / [Wechat](images/wechat.jpg) T
+[Email](chuqili@pku.edu.cn) / [Github](https://github.com/soki233) / [Wechat](images/mywechat.jpg) T
 
 
