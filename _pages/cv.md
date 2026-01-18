@@ -27,7 +27,8 @@ Research Directions
 
 Publications
 ======
-* **Li C**, et al. The meaning of life.[J]. Nature, 2126.
+* **Li C**, et al. The meaning of life[J]. Nature Fantacy, 2126.
+* **Li C**, et al. Why does Chihaya Anon marry Tomorin[J]? Anime Discussion, 2125.
 * Wei J, Jiang J, **Li C**, et al. Hydrogen-bond-assisted meta-nitrogen-doped graphyne enables real-time electrocatalytic NADH tracking in single cells[J]. Chemical Science, 2026.
 * Liu Y, Cao L, Zhou J, **Chu L**, et al. Single-vesicle electrochemistry in fresh brain slices enables in situ quantification of vesicular monoamine[J]. Journal of the American Chemical Society, 2024, 147(1): 149-160.
 
