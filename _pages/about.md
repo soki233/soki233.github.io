@@ -12,5 +12,3 @@ I am a first-year Ph.D. student in Pharmacy Analysis at the [school of pharmaceu
 You can find my Chinese CV here: [CV of pure passer-by](assets/CV of LCQ.pdf), or tend to the CV page to find more about me.
 
 Here is my [WechatCode](images/mywechat.jpg) for anyone needed. I'm always online.
-
-[coze作业](../_portfolio/multi-model-classification.md)
