@@ -24,24 +24,10 @@ Research Directions
 * Principles of truth or falsehood
 * Paths to happiness
 
+
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Li C**, et al. The meaning of life.[J]. Nature, 2126.
+* Wei J, Jiang J, **Li C**, et al. Hydrogen-bond-assisted meta-nitrogen-doped graphyne enables real-time electrocatalytic NADH tracking in single cells[J]. Chemical Science, 2026.
+* Liu Y, Cao L, Zhou J, **Chu L**, et al. Single-vesicle electrochemistry in fresh brain slices enables in situ quantification of vesicular monoamine[J]. Journal of the American Chemical Society, 2024, 147(1): 149-160.
+
